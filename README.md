@@ -10,7 +10,7 @@
 
 ## 📄 Technical Report
 
-**[Read Full Technical Report (PDF)](./computer-vision-chest-xray-classification-mimic-cxr-chexpert-report.pdf)**
+**[https://github.com/PeterOzo/Computer-Vision-Chest-Xray-Classification-Mimic-CXR-CheXpert/blob/main/1_CV_ChestXray_MultiDisease_MIMIC_CheXpert_Report.pdf](./computer-vision-chest-xray-classification-mimic-cxr-chexpert-report.pdf)**
 
 Complete 10-page research paper with mathematical formulations (35+ equations), comprehensive methodology, cross-institutional validation analysis, and detailed performance evaluation. Suitable for researchers, PhD committees, and technical reviewers.
 
