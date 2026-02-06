@@ -1,4 +1,4 @@
-# Computer Vision: Deep Learning for Multi-Disease Chest X-ray Classification
+# Computer Vision: Deep Learning for Multi-Disease Chest X-ray Classification 
 
 ## Cross-Institutional Validation Using MIMIC-CXR and CheXpert
 
